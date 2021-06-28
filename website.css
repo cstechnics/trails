@@ -1,59 +1,65 @@
 .html{
-    margin: 0;
+  margin: 0;
 }
 
 .header{
-    background-color: #008dc4;
-  width: 100%;
+  background-color: hsl(234, 80%, 31%);
+width: 100%;
 }
 .head{
-    margin-right: 8px;
-    margin-left: -34px;
+  margin-right: 8px;
+  margin-left: -34px;
 }
 .row {
-    width: 100%;
-    display: flex;
-    margin-right: 8px;
-    margin-left: -34px;
-    
-}  
-    
-.service{
-    background-color: #008dc4;
   width: 100%;
+  display: flex;
+  margin-right: 8px;
+  margin-left: -34px;
+  
+}  
+  
+.service{
+  background-color: #008dc4;
+width: 100%;
 }
 .csc{
-    background-color: lightblue;
-  width: 25%;
-  
-  border: 5px solid green;
- 
-  padding: 20%;
-  float:left;
+  background-color: lightblue;
+width: 25%;
+
+border: 5px solid rgb(255, 255, 255);
+
+padding: 20%;
+float:left;
 }
 .bank{
-    background-color: rgb(212, 100, 47);
-    width: 25%;
-  padding: 20%;
-  border: 5px solid green;
-  
-  float:left;
+  background-color: lightblue;
+  width: 25%;
+padding: 20%;
+border: 5px solid rgb(255, 255, 255);
+
+float:left;
 }
 .computer {
-    background-color: rgb(115, 4, 189);
-    width: 25%;
-    border: 5px solid green;
-  padding: 20%;
-  float: left;
+  background-color:lightblue ;
+  width: 25%;
+  border: 5px solid rgb(255, 255, 255);
+padding: 20%;
+float: left;
 }
 .dtp{
-    background-color: rgb(212, 5, 5);
-    width: 25%;
-    border: 5px solid green;
-  padding: 20%;
-  float: left;
+  background-color: lightblue;
+  width: 25%;
+  border:5px solid rgb(255, 255, 255);
+padding: 20%;
+float: left;
 }
 .contact{
-    background-color: burlywood;
-    padding: 20%;
+  background-color: rgb(7 35 76 / 82%);
+  padding: 20%;
+}
+.content{
+background-color: orange;
+}
+.about{
+background: rgb(214, 9, 9);
 }
