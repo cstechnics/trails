@@ -5,8 +5,7 @@
 .header{
   background-color: hsl(234, 80%, 31%);
 width: 100%;
-position: fixed;
-z-index: 1; 
+ 
 }
 .head{
   margin-right: 8px;
