@@ -1,5 +1,5 @@
 .html{
-  margin: 0;
+  margin:0px;
 }
 
 .header{
@@ -23,51 +23,64 @@ width: 100%;
   background-color: #008dc4;
 width: 100%;
 
+
 }
 .content{
-width: auto;
+width: 100%;
+margin-block-end: 0%;
 padding: auto;
+
 
 }
 .csc{
   background-color: lightblue;
-width: 25%;
+  width: 25%;
 
-border: 5px solid rgb(255, 255, 255);
-
+border: 3px solid rgb(255, 255, 255);
+margin-left: auto;
 padding: auto;
 float:left;
+
 }
 .bank{
   background-color: lightblue;
   width: 25%;
+
   padding: auto;
-border: 5px solid rgb(255, 255, 255);
+border: 3px solid rgb(255, 255, 255);
 
 float:left;
 }
 .computer {
   background-color:lightblue ;
   width: 25%;
-  border: 5px solid rgb(255, 255, 255);
+  border: 3px solid rgb(255, 255, 255);
   padding: auto;
 float: left;
 }
 .dtp{
   background-color: lightblue;
-  width: 20%;
-  border:5px solid rgb(255, 255, 255);
+  width: 25%;
+  border:3px solid rgb(255, 255, 255);
 padding: auto;
 float: left;
 }
 .third{
 
   background-color: rgb(7 35 76 / 82%);
-
+width: 100%;
   padding: auto%;
 
 }
+
 .fourth{
-background: rgb(30 16 58);
-width: 100%;
-}
+  background-image: url("images/about.jpg");
+  background-position: center;
+  
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+  flex-grow: 1;
+  
+  }
+  
