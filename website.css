@@ -45,11 +45,13 @@ width: 100%;
 }
 .fourth{
 background-image: url("images/about.jpg");
-background-position: center;
+
 
 background-repeat: no-repeat;
 background-size: cover;
-
-flex-grow: 1;
+position: relative;
+background-position: top;
+height: 300px;
 
 }
+
